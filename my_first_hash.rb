@@ -14,5 +14,5 @@ def retrieval
 end
 
 def adding
-  shipping_manifest={"gun powder"=>4, "muskets"=>2, "oil paintings"=>3, "porcelainvases"=>2, "whale bone corsets"=>5
+  shipping_manifest={"gun powder"=>4, "muskets"=>2, "oil paintings"=>3, "porcelain vases"=>2, "whale bone corsets"=>5}
 end
